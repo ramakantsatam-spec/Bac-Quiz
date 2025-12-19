@@ -1,0 +1,7 @@
+{
+  "name": "Bac Master: French Terminal Exam Prep",
+  "description": "An interactive study application for French Terminal students to test their knowledge across various subjects with AI-generated questions and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
